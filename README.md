@@ -1,2 +1,5 @@
-# iud-trends
-Exploring the information gap between formal and informal sources for women’s birth control (IUD) using Webscrapping, Reddit, and Google Trends API
+# Exploring the information gap between formal and informal sources for women’s birth control (IUD)
+
+159+ million women worldwide use an IUD as birth control and yet women's health is still under-researched. There are a few specific sources which directly attempt to address various common myths around IUDs, so women tend to turn to more informal sources to gain the knowledge they are looking for. There have been a few previous studies analyzing the discussion of women’s health on Reddit, specifically more conventionally taboo topics regarding female sexual health (i.e. female sexual dysfunction and resuming sexual activity after birth). These studies found that women received conflicting/insufficient advice from their doctors which pushed them to ask their questions on Reddit, which has been previously criticised for its encouragment of myths and rumours. It also found that women were seeking a discussion of “psychological consequences,” which they did not find from their doctors.
+
+This project aims to explore the discussion of IUD-related information from formal and informal sources. Through careful consideration of various formal sources, such as official medical information, and from informal sources, such as Reddit forums and subreddits. This group project demonstrates data collection, management, and visualization.
